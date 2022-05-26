@@ -41,6 +41,18 @@ Tribe is a fullstack application that combines [Turing](https://turing.edu/) stu
 
 ## Overview
 
+During the past 30 years, we as a society have witnessed an unprecedented level of technological growth. Ever since the advent of the internet in the 90s, the world has become increasingly technologically connected.
+
+However, these changes have not come without consequence. Today, over 61% of young adults in the United States report feeling seriously lonely. Additionally, the average number of friends that Americans report having is half the number reported in surveys just 20 years prior. The impact of this trend is staggering: reports estimate that loneliness increases the risk of mortality to the same degree as smoking as many as 15 cigarettes a day!
+
+The trend is clear: in an increasingly connected world, we ironically find ourselves increasingly isolated by technology.
+
+Tribe is here to fix that.
+
+Tribe is a location-based friendship exploration app that uses technology to connect lonely people based on their interest compatibility. Unlike other social media platforms--which are known to increase feelings of isolation and anxiety--Tribe emphasizes the creation of interest-based communities and natural conversations instead of the posting of over-curated images in shallow news feeds.
+
+The details of the Alpha release of Tribe can be found here: [Tribe Backend repo](https://github.com/Tribe-Turing/be_tribe) & [Tribe Frontend repo](https://github.com/Tribe-Turing/fe_tribe)
+
 ## Agile Development
 
 We adhered to the agile methodologies over the course of 12 days. We collaborated ideas on a [Miro](https://miro.com/app/board/uXjVO1zKKQA=/) board to brainstorm features for the MVP, aka minimum viable product. We also planned out a general timeline and braindumped any questions to our Project Manager and mentor on Miro. We had daily stand up meetings in the morning, weekly retrospective meetings, and communicated regularly in Slack and Zoom. The team met with a project manager and mentor every three days for check-ins and communicated with them regularly via Slack.
