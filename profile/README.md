@@ -1,15 +1,14 @@
 # Tribe
 
-## Fullstack application
+## About
+Tribe is a fullstack application that combines [Turing](https://turing.edu/) students from the frontend and backend program to collaborate using a Git workflow of git merge and rebasing. We implemeted Continuous Integration (CI) via GitHub Actions and deployment via Heroku.
+
+### Fullstack application
 [Tribe Backend repo](https://github.com/Tribe-Turing/be_tribe)
 
 [Tribe Frontend repo](https://github.com/Tribe-Turing/fe_tribe)
 
-## Deployment
-
-[Tribe](https://fe-tribe.herokuapp.com/)
-
-## Software developer team
+## Meet the Software Developer team
 
 <table>
     <tr>
