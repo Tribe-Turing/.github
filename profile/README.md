@@ -51,3 +51,7 @@ We adhered to the agile methodologies over the course of 10 days.
 - Continuous Integration: GitHub Actions
 - Testing: Cypress, RSpec
 - Accessibility: Lighthouse
+
+## Credits
+- [Lucidchart.com](http://www.lucidchart.com)
+- [Worldvectorlogo.com](http://worldvectorlogo.com/)
