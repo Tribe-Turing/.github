@@ -39,7 +39,13 @@
 
 ## Agile Development
 
-We adhered to the agile methodologies over the course of 10 days.
+We adhered to the agile methodologies over the course of 12 days. We collaborated ideas on a [Miro](https://miro.com/app/board/uXjVO1zKKQA=/) board to brainstorm features for the MVP, aka minimum viable product. We also planned out a general timeline and braindumped any questions to our Project Manager and mentor on Miro. We had daily stand up meetings in the morning, weekly retrospective meetings, and communicated regularly in Slack and Zoom. The team met with a project manager and mentor every three days for check-ins and communicated with them regularly via Slack.
+
+- Kanban sytem via [GitHub Projects](https://github.com/orgs/Tribe-Turing/projects/1)
+- JSON contract
+- DB schema
+- Wireframes ([Excalidraw](https://excalidraw.com/#room=2375e1d4685f261149f5,6jF7oVpCf2QKov0c0hTuag) & [Figma](https://www.figma.com/file/lVCJisPvpdz075rT6nKBOR/Tribe))
+- [API Endpoints](https://documenter.getpostman.com/view/20017443/Uz59PzXu)
 
 ## Technologies & Architecture
 
