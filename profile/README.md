@@ -1,5 +1,10 @@
 # Tribe
 
+## Fullstack application
+[Tribe Backend repo](https://github.com/Tribe-Turing/be_tribe)
+
+[Tribe Frontend repo](https://github.com/Tribe-Turing/fe_tribe)
+
 ## Deployment
 
 [Tribe](https://fe-tribe.herokuapp.com/)
